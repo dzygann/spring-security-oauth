@@ -41,8 +41,8 @@
     </dependencies>
 
     <properties>
-        <spring-webflux.version>5.3.9</spring-webflux.version>
-        <reactor-netty.version>1.0.9</reactor-netty.version>
+        <spring-webflux.version>5.3.20</spring-webflux.version>
+        <reactor-netty.version>1.0.19</reactor-netty.version>
     </properties>
 
 </project>
