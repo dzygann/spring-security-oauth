@@ -11,7 +11,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.2.6.RELEASE</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 	
 		<dependencies>
@@ -120,7 +120,7 @@
 
 	</build>
 	<properties>
-		<netflix-zuul.version>2.1.1.RELEASE</netflix-zuul.version>
+		<netflix-zuul.version>2.2.4.RELEASE</netflix-zuul.version>
 		<commons-io.version>2.6</commons-io.version>
 	</properties>
 </project>
