@@ -102,7 +102,7 @@
 
 	</build>
 	<properties>
-		<netflix-zuul.version>2.1.1.RELEASE</netflix-zuul.version>
+		<netflix-zuul.version>2.2.4.RELEASE</netflix-zuul.version>
 	</properties>
 
 </project>
